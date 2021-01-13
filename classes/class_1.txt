@@ -1,0 +1,12 @@
+Kitchen
+Attributes:
+headChef: 'Bobby Joe' (string)
+kitchenIsOpen : false (boolean)
+kitchenCloses : 10 (integer)
+measuringCup : 2.5cups (float)
+
+Methods:
+newChef : 'Billy' (changes the headChef) string
+kitchenIsClosed : false (this changes kitchenIsOpen to True) boolean
+newKitchenClosingTime : 9 (this changes the 'kitchenCloses: 10 to  8)integer
+largeMeasuringCup : 10.5cups (this changes the measuringCup : 2.5) float
