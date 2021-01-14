@@ -1,4 +1,11 @@
-seating
-booth
-bar
-tables
+var restaurant = {
+headChef: 'Bobby Joe',
+kitchenIsOpen : false,
+kitchenCapacity : 100,
+closingTime : '22:00:00',
+}
+
+newChef : 'Billy' (changes the headChef)
+kitchenIsClosed : false (this changes kitchenIsOpen to True)
+updateCapacity : 200 (this changes the kitchen capacity attribute)
+updateClosingTime : '21:00:00' (this changes the closingTime attribute)
