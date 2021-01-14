@@ -1,0 +1,4 @@
+seating
+booth
+bar
+tables
