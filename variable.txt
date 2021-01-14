@@ -1,0 +1,9 @@
+var food = 'Banana Pudding'
+var is_delicious = true
+food = 'Beef Jerky'
+var num2 = 200
+var num7 = 300
+var quotient = 1.5
+var songs = ['Superman', 'Juicy', 'A Milli']
+songs.shift();
+food.length;
