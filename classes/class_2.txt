@@ -1,0 +1,6 @@
+Class: Refrigerator
+Attributes
+brandName: 'Cuisinart' (string)
+doorOpen : false (boolean)
+bananaCapacity : 1000 (integer)
+temperature : 32.8 (float)
