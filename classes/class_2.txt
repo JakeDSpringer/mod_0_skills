@@ -4,3 +4,8 @@ brandName: 'Cuisinart' (string)
 doorOpen : false (boolean)
 bananaCapacity : 1000 (integer)
 temperature : 32.8 (float)
+
+newBrand : 'Kohler' (changes the brandName) string
+openDoor : true (this changes doorOpen to True) boolean
+updateCapacity : 2000 (this updates bananaCapacity) integer
+updateTemperature : 33.9 (this updates the temperature)
