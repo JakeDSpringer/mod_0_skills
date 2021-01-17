@@ -1,11 +1,11 @@
 var restaurant = {
 headChef: 'Bobby Joe',
-kitchenIsOpen : false,
-kitchenCapacity : 100,
-closingTime : '22:00:00',
+isOpen : false,
+capacity : 100,
+closingTime : 12
 }
 
 newChef : 'Billy' (changes the headChef)
-kitchenIsClosed : false (this changes kitchenIsOpen to True)
-updateCapacity : 200 (this changes the kitchen capacity attribute)
-updateClosingTime : '21:00:00' (this changes the closingTime attribute)
+isClosed : false (this changes isOpen to True)
+updateCapacity : 200 (this changes the capacity attribute)
+updateClosingTime : 11 (this changes the closingTime attribute)
